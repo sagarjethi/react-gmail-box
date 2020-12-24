@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.js": "/react-gmail-box/static/js/main.755a3082.chunk.js",
-    "main.js.map": "/react-gmail-box/static/js/main.755a3082.chunk.js.map",
+    "main.js": "/react-gmail-box/static/js/main.647597cb.chunk.js",
+    "main.js.map": "/react-gmail-box/static/js/main.647597cb.chunk.js.map",
     "runtime-main.js": "/react-gmail-box/static/js/runtime-main.07c38e81.js",
     "runtime-main.js.map": "/react-gmail-box/static/js/runtime-main.07c38e81.js.map",
-    "static/js/2.59f436b4.chunk.js": "/react-gmail-box/static/js/2.59f436b4.chunk.js",
-    "static/js/2.59f436b4.chunk.js.map": "/react-gmail-box/static/js/2.59f436b4.chunk.js.map",
+    "static/js/2.de639cba.chunk.js": "/react-gmail-box/static/js/2.de639cba.chunk.js",
+    "static/js/2.de639cba.chunk.js.map": "/react-gmail-box/static/js/2.de639cba.chunk.js.map",
     "index.html": "/react-gmail-box/index.html",
-    "precache-manifest.4c3f93d8c465f24e89c8ec04308eff8e.js": "/react-gmail-box/precache-manifest.4c3f93d8c465f24e89c8ec04308eff8e.js",
+    "precache-manifest.ca69efd622fe1e7d331101c5ca4fb7e0.js": "/react-gmail-box/precache-manifest.ca69efd622fe1e7d331101c5ca4fb7e0.js",
     "service-worker.js": "/react-gmail-box/service-worker.js",
-    "static/js/2.59f436b4.chunk.js.LICENSE.txt": "/react-gmail-box/static/js/2.59f436b4.chunk.js.LICENSE.txt",
-    "static/media/empty_email.svg": "/react-gmail-box/static/media/empty_email.c9034baf.svg"
+    "static/js/2.de639cba.chunk.js.LICENSE.txt": "/react-gmail-box/static/js/2.de639cba.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.07c38e81.js",
-    "static/js/2.59f436b4.chunk.js",
-    "static/js/main.755a3082.chunk.js"
+    "static/js/2.de639cba.chunk.js",
+    "static/js/main.647597cb.chunk.js"
   ]
 }
