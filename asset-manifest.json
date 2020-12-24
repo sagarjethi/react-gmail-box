@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/CubeMail/static/js/main.78591164.chunk.js",
-    "main.js.map": "/CubeMail/static/js/main.78591164.chunk.js.map",
-    "runtime-main.js": "/CubeMail/static/js/runtime-main.8b14a9d4.js",
-    "runtime-main.js.map": "/CubeMail/static/js/runtime-main.8b14a9d4.js.map",
-    "static/js/2.3207cc07.chunk.js": "/CubeMail/static/js/2.3207cc07.chunk.js",
-    "static/js/2.3207cc07.chunk.js.map": "/CubeMail/static/js/2.3207cc07.chunk.js.map",
-    "index.html": "/CubeMail/index.html",
-    "precache-manifest.09c6f50b4868ed9994126c5bbe2bf06d.js": "/CubeMail/precache-manifest.09c6f50b4868ed9994126c5bbe2bf06d.js",
-    "service-worker.js": "/CubeMail/service-worker.js",
-    "static/js/2.3207cc07.chunk.js.LICENSE.txt": "/CubeMail/static/js/2.3207cc07.chunk.js.LICENSE.txt",
-    "static/media/empty_email.svg": "/CubeMail/static/media/empty_email.c9034baf.svg"
+    "main.js": "/react-gmail-box/static/js/main.755a3082.chunk.js",
+    "main.js.map": "/react-gmail-box/static/js/main.755a3082.chunk.js.map",
+    "runtime-main.js": "/react-gmail-box/static/js/runtime-main.07c38e81.js",
+    "runtime-main.js.map": "/react-gmail-box/static/js/runtime-main.07c38e81.js.map",
+    "static/js/2.59f436b4.chunk.js": "/react-gmail-box/static/js/2.59f436b4.chunk.js",
+    "static/js/2.59f436b4.chunk.js.map": "/react-gmail-box/static/js/2.59f436b4.chunk.js.map",
+    "index.html": "/react-gmail-box/index.html",
+    "precache-manifest.4c3f93d8c465f24e89c8ec04308eff8e.js": "/react-gmail-box/precache-manifest.4c3f93d8c465f24e89c8ec04308eff8e.js",
+    "service-worker.js": "/react-gmail-box/service-worker.js",
+    "static/js/2.59f436b4.chunk.js.LICENSE.txt": "/react-gmail-box/static/js/2.59f436b4.chunk.js.LICENSE.txt",
+    "static/media/empty_email.svg": "/react-gmail-box/static/media/empty_email.c9034baf.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8b14a9d4.js",
-    "static/js/2.3207cc07.chunk.js",
-    "static/js/main.78591164.chunk.js"
+    "static/js/runtime-main.07c38e81.js",
+    "static/js/2.59f436b4.chunk.js",
+    "static/js/main.755a3082.chunk.js"
   ]
 }
